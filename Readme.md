@@ -16,7 +16,11 @@ Estos datos se obtienen originalmente del portal web "Kaggle" [Microsoft Azure P
 Además, se adjunta el conjunto de datos obtenido tras un proceso de limpieza, combinación y formateo de datos a partir de los anteriores:
 - dfp_global.csv
 
-Por otro lado, en el directorio "Notebooks" se pueden consultar los archivos con la programación en Pyhton realizada. Se organiza en cuatro partes, que corresponden cada una a una fase de la metodología CRISP-DM en particular. 
+Por otro lado, en el directorio "Notebooks" se pueden consultar los archivos con la programación en Pyhton realizada. Se organiza en cuatro partes, que corresponden cada una a una fase de la metodología CRISP-DM en particular. El propio nombre de cada archivo indica en qué consisten. No obstante, se ordenan del siguiente modo:
+1. CRISP-DM - Exploración de los datos. Proceso de exploración de datos mediante técnicas estadísticas y uso de gráficos. 
+2. CRISP-DM - Preparación de los datos. Procesos de limpieza, composición de nuevos datos, combinación, adaptación y formateo de los datos.
+3. CRISP-DM - Modelado de los datos (CART). Aplicación de la técnica de árboles de decisión CART.
+4. CRISP-DM - Modelado de los datos (Random Forest). Aplicación de la técnica de árboles de decisión Random Forest. 
 
 
 
