@@ -1,5 +1,7 @@
 ## Mantenimiento Predictivo en máquinas de envasado mediante Inteligencia Artificial
 
+Autora: Maria Teresa Gilabert Ramón
+
 Trabajo Final de Máster realizado para finalizar los estudios del Máster en Inteligencia Artificial impartido por la Universidad Internacional de Valencia (VIU).
 
 En esta plataforma se comparte el conjunto de datos utilizado así como el código Python implementado. 
